@@ -161,7 +161,7 @@ Usa el botón de la sección de inicio rápido.
 
 ---
 
-*Among Us · Actualizado 2026-11-07 · Compartido bajo licencia MIT*
+*Among Us · Actualizado 2026-11-08 · Compartido bajo licencia MIT*
 
 
-*Last updated: 2026-11-07*
+*Last updated: 2026-11-08*
